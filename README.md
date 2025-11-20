@@ -20,3 +20,6 @@ cd UroBest
 
 # Запустить нормализацию
 python main.py -i urls.txt -o cleaned_urls.txt
+```
+
+SEO: URL normalizer, URL deduplication, remove UTM parameters, fbclid/gclid remover, Python script, URL cleaner, web scraping tool, IDNA domain support, link optimization, fast URL cleaner.
